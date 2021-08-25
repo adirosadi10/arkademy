@@ -1,4 +1,3 @@
-![Crud - Google Chrome 25_08_2021 22 04 56](https://user-images.githubusercontent.com/77598465/130816158-7ca70b64-b457-4fbb-aa7b-1c6fc41700ce.png)
 # Bootcamp Arkademy
 Soal level3 - tugas10
 
@@ -17,12 +16,11 @@ Input data berhasil
 Form Update
 ![Crud - Google Chrome 25_08_2021 22 04 56](https://user-images.githubusercontent.com/77598465/130816158-7ca70b64-b457-4fbb-aa7b-1c6fc41700ce.png)
 
-Update data berhasil
+Update data berhasil(update data pada data pulpen)
 ![Crud - Google Chrome 25_08_2021 21 43 15](https://user-images.githubusercontent.com/77598465/130814853-3b41fdb2-7f91-4807-bbba-83c8d86f5829.png)
 
 Konfirmasi pesan hapus
 ![Crud - Google Chrome 25_08_2021 21 43 32](https://user-images.githubusercontent.com/77598465/130814857-3394ab99-8686-44d3-a372-376d200eac50.png)
 
 Hapus data berhasil
-![Crud - Google Chrome 25_08_2021 21 43 34](https://user-images.githubusercontent.com/77598465/130814858-8e060ff6-1be6-415b-b13e-3dc3a6effb12.png)
 ![Crud - Google Chrome 25_08_2021 21 43 44](https://user-images.githubusercontent.com/77598465/130814865-a48d2a94-9fc9-48ce-bc42-6e9367d8b7e9.png)
