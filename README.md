@@ -2,3 +2,18 @@
 Soal level3 - tugas10
 
 Tampilan awal
+![Crud - Google Chrome 25_08_2021 21 25 49](https://user-images.githubusercontent.com/77598465/130814831-1c977b1e-6737-4664-b336-e21ae965b0e6.png)
+
+Form create
+![Crud - Google Chrome 25_08_2021 21 36 58](https://user-images.githubusercontent.com/77598465/130814839-278131ea-b0b0-4863-b133-988370dbe440.png)
+
+validasi form 
+![Crud - Google Chrome 25_08_2021 21 37 13](https://user-images.githubusercontent.com/77598465/130814843-593db57c-a381-4111-b69e-4c2a4f99d19f.png)
+
+
+![Crud - Google Chrome 25_08_2021 21 40 26](https://user-images.githubusercontent.com/77598465/130814847-0a8682be-bc47-4011-9cdb-ebf3b176ad33.png)
+![Crud - Google Chrome 25_08_2021 21 42 45](https://user-images.githubusercontent.com/77598465/130814851-aa1db3ab-40e0-4bca-bdcb-f48afe249c13.png)
+![Crud - Google Chrome 25_08_2021 21 43 15](https://user-images.githubusercontent.com/77598465/130814853-3b41fdb2-7f91-4807-bbba-83c8d86f5829.png)
+![Crud - Google Chrome 25_08_2021 21 43 32](https://user-images.githubusercontent.com/77598465/130814857-3394ab99-8686-44d3-a372-376d200eac50.png)
+![Crud - Google Chrome 25_08_2021 21 43 34](https://user-images.githubusercontent.com/77598465/130814858-8e060ff6-1be6-415b-b13e-3dc3a6effb12.png)
+![Crud - Google Chrome 25_08_2021 21 43 44](https://user-images.githubusercontent.com/77598465/130814865-a48d2a94-9fc9-48ce-bc42-6e9367d8b7e9.png)
